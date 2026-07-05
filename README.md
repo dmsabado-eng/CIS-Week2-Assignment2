@@ -10,7 +10,7 @@ I created a `main.cpp` file and used `cin` to collect user input. I used variabl
 
 ## Video
 
-[Watch my video here](PASTE-YOUR-VIDEO-LINK-HERE)
+[Watch my video here](https://drive.google.com/file/d/1vV283RDegyC2JRLqzL0ICkEgPC-BQ00y/view?usp=drivesdk)
 
 ## How to Run
 
